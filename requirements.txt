@@ -1,0 +1,31 @@
+# LLM
+google-generativeai
+langchain-google-genai
+
+# LangChain
+langchain
+langchain-community
+langchain-core
+
+# Vector Database
+faiss-cpu
+
+# Embeddings
+sentence-transformers
+
+# YouTube Transcript
+youtube-transcript-api
+
+# Text Processing
+tiktoken
+pypdf
+
+# Environment Variables
+python-dotenv
+
+# Frontend
+streamlit
+
+# Utilities
+numpy
+pandas
