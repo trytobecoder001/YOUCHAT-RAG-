@@ -10,9 +10,6 @@ langchain-core
 # Vector Database
 faiss-cpu
 
-# Embeddings
-sentence-transformers
-
 # YouTube Transcript
 youtube-transcript-api
 

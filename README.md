@@ -90,3 +90,6 @@ youchat/
 ## License
 
 MIT — do whatever you want with it.
+
+## URL
+url = https://youchat06.streamlit.app/
