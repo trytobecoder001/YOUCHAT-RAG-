@@ -1,3 +1,20 @@
-DATABASE
-YouChat
+# Virtual Environment
+.venv/
+YouChat/
+
+# Environment Variables
 .env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Streamlit Cache
+.streamlit/
+
+# Vector Databases
+DATABASE/
+DATABASES/
+
+# VS Code
+.vscode/
